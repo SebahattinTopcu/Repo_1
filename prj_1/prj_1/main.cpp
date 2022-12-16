@@ -2,7 +2,8 @@
 #include <string>
 using namespace std;
 void main(void)
-{
+{//	SEBAHATTİN
+	//devlp_1 localden yazdı.
 	//This line add by devlp_1
 	cout << "Merhaba" << endl;
 
