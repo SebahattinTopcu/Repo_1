@@ -11,5 +11,7 @@ void main(void)
 
 	// ikinci satýr ikinci commit için eklendi.
 	//Remot da ekleme yapıldı.
+
+	//Local eklendi_1
 }
 
