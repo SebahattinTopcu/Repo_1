@@ -5,11 +5,12 @@ void main(void)
 {
 	cout << "Merhaba" << endl;
 
-	// ikinci sat�r ikinci commit i�in eklendi.
-
-	//remot dan sonra local de yaz�ld�.
-
 	// ikinci satýr ikinci commit için eklendi.
-	//Remot da ekleme yapıldı.
+
+	//remot dan sonra local de yazýldý.
+
+	// ikinci satÃ½r ikinci commit iÃ§in eklendi.
+	//Remot da ekleme yapÄ±ldÄ±.
+	//remot da eklendi_1 eklendi
 }
 
